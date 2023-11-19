@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="485761144fab44f88ec34ec5041ec0a4" Name="Diagram1">
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Agency" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Bill" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Delivery" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.DeliveryDetail" Width="1.5" PointX="8.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Employee" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Product" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Received" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.ReceivedDetail" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dotNET_FinalProjectModel.Supplier" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Bill_Agency" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Delivery_Agency" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Bill_Delivery" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Bill_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Delivery_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_DeliveryDetail_Delivery" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_DeliveryDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Received_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Product_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_ReceivedDetail_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_Received_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="dotNET_FinalProjectModel.FK_ReceivedDetail_Received" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
