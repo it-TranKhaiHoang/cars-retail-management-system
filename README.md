@@ -6,8 +6,7 @@ In order to digitize the process of inventory management and stock in-out activi
 ![](src/public/img/logo2.png)
 
 ## System specification
-[Report](https://github.com/it-trankhaihoang/primary-school-classroom-management/tree/main/client/src/public/report/report.pdf)
-
+[Report](https://github.com/it-trankhaihoang/cars-retail-management-system/tree/main/FinalProject/Resources/Screenshot_2023-02-23_215714-removebg-preview.png)
 
 ## Features
 _The software allows (1) the manager/administrator and (2) employees to interact with each other on the same system._
