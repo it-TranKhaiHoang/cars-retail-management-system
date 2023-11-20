@@ -3,7 +3,7 @@
 
 In order to digitize the process of inventory management and stock in-out activities, a car distribution company has requested the development of a software to manage all related tasks.
 
-![](src/public/img/logo2.png)
+![](FinalProject/Resources/Screenshot_2023-02-23_215714-removebg-preview.png)
 
 ## System specification
 [Report](https://github.com/it-trankhaihoang/cars-retail-management-system/tree/master/FinalProject/Resources/Screenshot_2023-02-23_215714-removebg-preview.png)
