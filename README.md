@@ -6,7 +6,7 @@ In order to digitize the process of inventory management and stock in-out activi
 ![](src/public/img/logo2.png)
 
 ## System specification
-[Report](https://github.com/it-trankhaihoang/cars-retail-management-system/tree/FinalProject/Resources/Screenshot_2023-02-23_215714-removebg-preview.png)
+[Report](https://github.com/it-trankhaihoang/cars-retail-management-system/tree/master/FinalProject/Resources/Screenshot_2023-02-23_215714-removebg-preview.png)
 
 ## Features
 _The software allows (1) the manager/administrator and (2) employees to interact with each other on the same system._
